@@ -1,0 +1,45 @@
+
+@font-face {
+  font-family: monthly;
+  src: url(font/monthly.woff2) format('woff2');
+}
+
+.verse {
+  font-family: monthly;
+  color: #FFF1D6;
+  text-shadow: 4px 4px black;
+  text-align: left;
+}
+
+.right{
+  text-align: right;
+}
+
+.bottomline {
+  font-family: monthly;
+  font-size: 100px;
+  color: white;
+  text-align: left;
+}
+
+.monthFont {
+  font-family: monthly;
+  color: white;
+  text-align: left;
+}
+
+.shadow{
+  text-shadow: 2px 2px #000000;
+}
+
+.blackshadow{
+  text-shadow: 4px 4px black;
+}
+#clock {
+  position: absolute;
+  text-align: right;
+  bottom: 0;
+  width: 100%;
+  color:#F6ECEB;
+  text-shadow: 2px 2px black;
+}
