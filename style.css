@@ -17,8 +17,9 @@
 
 .monthFont {
   font-family: monthly;
-  color: #4F0A1D;
+  color: #193B5E;
   text-align: left;
+  -webkit-text-stroke: 3px white;
 }
 
 .shadow{
@@ -30,7 +31,7 @@
 }
 
 .rotate {
-  transform: rotate(1deg);
+  transform: rotate(358deg);
 }
 
 .verse {
