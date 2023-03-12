@@ -11,13 +11,13 @@
 .bottomline {
   font-family: monthly;
   font-size: 100px;
-  color: white;
+  color: #E4A82E;
   text-align: left;
 }
 
 .monthFont {
   font-family: monthly;
-  color: #FDE8C1;
+  color: #E4A82E;
   text-align: left;
   
 }
@@ -46,6 +46,6 @@
   text-align: right;
   bottom: 0;
   width: 100%;
-  color:#FACD68;
+  color:#E4A82E;
   text-shadow: 2px 2px #206666;
 }
